@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "psychic-light-351912",
+  "private_key_id": "54d2c54096be321a6900f46a7b92240c766caa38",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+xgRwIJalouSP\nX08EmNdgYSuwUjEb5Xdmlp9jUoi65vgvRiBc+FBCQXQ2jwMJI/7vcuOxxMwdUEFa\ngQtectqtW8gPqeO7PymbZ64EFWQyYJ0ACsFaYVx0QhbGYNEUlG2p3k6h5J95LEJp\nvsqeEXfIisvpNSUzx5HrW68KF7zuL9XORK/qMtp4rcCubJcuW0axhUbalFMLXc8p\nwRNdcXR55zYDxXnPZC4wuyV6o5uAwhCyNfvGkzLn6AsUfFdIm7l2tSJ3lWHtShLG\n7Ty1aq1tRP6+ZgKU0tPC7zlIJKUejBqUWgPBLblX+NNpxFUpIw/CQzVxx1OA6wLB\nw5BNZmO5AgMBAAECggEAAgSYC7tHl70/Na2l8xinGGsf8aSZPBPYYQW7KUPzdk4K\nh5CP3xNFCIb/fJ9UzEYbqXhxBuiqntTCL+gfYgxgqVLvhZX4nhhHttm6NwjX0KMQ\nrXcg49faktA+65S8cDVxuavOKvjX0NiesptYgVQl+SPZyd1qDI7ILAzar0tqN5Sa\nylOSqFI55RK0sS2LE8faGLca5u4ALw8ouoyHg1owCNkKTG/YJepp1x1Af20MwHD9\nMAj67UVdTV7sJrxO/l51sX+j33LLUKcj0ALRHAS5EM6SgD1nGjvD/qviWrAl9pjU\nGM4GotE3IaA/TOJg8dKpkaoOQHZQzR7QTIU4sodWQQKBgQD19eihc+88rLluiR6A\nuuCKdeAdfOz+vAW7tvyaSSfepwXs+cubX6UGtmUArdM/Eo1vpbIbKittGm4/estV\n/VfXuX8B8MnVWy4cKyIhcIW1yUm432jD6XKQWgNbtJRpHf98eVu2qgytuLd7AAiL\n0CUAhramk3mmOAU3QFrE9w5iVQKBgQDGj3KlSHy/WRVqgTLWN8Q9caDfGST8ijfF\nUw5AFSLzlKugx/aVv1yd4WPO/TcgkSC2CE5Jyv+JQJwd0lWxVcANYxFfss5kUu96\nKRUeMvJQ1yIpVcOm4qzu/pyhUEgRg8eA+2quCwalcgjCH0GlBsIs/uXJI0rS/V1f\nsV3G/4VH1QKBgQCiu+YD1LIIAfvaP4zX/U0NLzpuKDahwANHFKYC6r4fWYDZLtjg\n3yJP06P2FAw9oefEY+v4fykmUaN6CqO4LBvPlmKLBSZ1LJPQfVVirJE7GofVcrNd\nU/rBuVyZc1vyRK/CSoU80Tv8QMfc8MO2xauFspvskIyfRldlHAYyZYe11QKBgQCJ\nq+xRrXDRO3Md5XbaENB/yclA5q4+a5c/udanmAAj43EciYjvSz9sOFp7qhYO/pEv\npZKil52WDLYx9yRzUIFYxtfFArUX2mkwyktaJPjeFEwbXNvLWl+NVfxD3OYbPsOV\nKr1M71gsXmS0M/fP9F+t0w5/53h50jJrpw7ea0x+AQKBgDTaB7ZQAHtLoxUZJO8K\nJOlh4xnuyj3zmCUZO3Fp4Y3osAffHSivEe3RVpNzTZvuqhZKp+omQLHRriAAz58V\n3psazGpU/2Ai1V+t0SepT1F1imRB67aw/6QSt8FCjR8oLX74uB1ziiOjOGUekVSj\nUklSfH3V1cy1filson5e5QPB\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-uya-i9i1kbvx0dlehstabgdfi4@psychic-light-351912.iam.gserviceaccount.com",
+  "client_id": "104284272969491448849",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-uya-i9i1kbvx0dlehstabgdfi4%40psychic-light-351912.iam.gserviceaccount.com"
+}
